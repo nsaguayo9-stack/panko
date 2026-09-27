@@ -1,0 +1,35 @@
+id,categoria,nombre,descripcion,opciones,precio,stock,foto,observaciones
+PANKO-001,Banderillas coreanas,Panko Potato,"Banderilla rellena a elección, rebozada en masa casera, empanizada en papas fritas y panko.",Relleno a elección (alternativas por confirmar),"$3,990",sí,,Confirmar qué rellenos se pueden elegir.
+PANKO-002,Banderillas coreanas,Panko Ramyon,"Banderilla rellena a elección, rebozada en masa casera, empanizada en ramen y panko.",Relleno a elección (alternativas por confirmar),"$3,990",sí,,Confirmar qué rellenos se pueden elegir.
+PANKO-003,Banderillas coreanas,Panko Cheese,"Banderilla rellena de queso, rebozada en masa casera y empanizada en panko.",,"$3,990",sí,,
+PANKO-004,Banderillas coreanas,Panko Mix,"Banderilla rellena de queso y salchicha, rebozada en masa casera y empanizada en panko.",,"$3,590",sí,,
+PANKO-005,Banderillas coreanas,Panko Salchicha,"Banderilla rellena de salchicha, rebozada en masa casera y empanizada en panko.",,"$3,590",sí,,
+PANKO-006,Completos,Italiano,,Normal,"$2,500",sí,,
+PANKO-007,Completos,Dinámico,,Normal,"$2,900",sí,,
+PANKO-008,Completos,Papapletos,,Normal,"$2,900",sí,,Confirmar nombre: el menú dice «Papapletos».
+PANKO-009,Completos,Ass Italiano,,Normal,"$4,000",sí,,Confirmar grafía «Ass» tal como figura en el menú.
+PANKO-010,Completos XL 40 cm,Italiano,,XL 40 cm,"$6,000",sí,,
+PANKO-011,Completos XL 40 cm,Dinámico,,XL 40 cm,"$7,000",sí,,
+PANKO-012,Completos XL 40 cm,Papa Pleto,,XL 40 cm,"$7,000",sí,,Confirmar nombre: el menú dice «Papa Pleto»; difiere de «Papapletos».
+PANKO-013,Completos XL 40 cm,Ass Italiano,,XL 40 cm,"$7,990",sí,,
+PANKO-014,Completos XL 40 cm,Ass Dinámico,,XL 40 cm,"$8,990",sí,,
+PANKO-015,Completos XL 40 cm,Ass a lo Pobre,"Churrasco, cebolla frita, papas fritas y mayo.",XL 40 cm,"$8,990",sí,,Confirmar si la descripción entre paréntesis aplica solo a este producto.
+PANKO-016,Choripán XL 40 cm,Choripán Mayo,,XL 40 cm,"$6,990",sí,,
+PANKO-017,Choripán XL 40 cm,Choripán Italiano,,XL 40 cm,"$7,990",sí,,
+PANKO-018,Choripán XL 40 cm,Choripán Dinámico,,XL 40 cm,"$8,990",sí,,
+PANKO-019,Papas fritas,Papa frita individual,,Individual,"$3,000",sí,,
+PANKO-020,Papas fritas,Papa frita mediana,,Mediana,"$4,990",sí,,
+PANKO-021,Papas fritas,Salchipapa mediana,,Mediana,"$5,990",sí,,
+PANKO-022,Papas fritas,Chorrillana grande,"Papas fritas naturales, churrasco, lomito, salchicha, cebolla frita y 3 huevos fritos.",Grande,"$19,990",sí,,
+PANKO-023,Picoteos,Aros de cebolla,,20 unidades,"$4,990",sí,,
+PANKO-024,Picoteos,Empanadas queso,,15 unidades,"$5,990",sí,,
+PANKO-025,Picoteos,Apanado de pollo,,10 unidades,"$7,990",sí,,
+PANKO-026,Picoteos,Panko Picoteo Mix,"Papas fritas, 5 aros de cebolla, 4 empanadas, 3 apanados de pollo y pepinillos.",,"$9,990",sí,,
+PANKO-027,Sándwich artesanal,Sándwich artesanal,"Preparaciones: brasileño, italiano, chacarero o a lo pobre.",Proteína a elección: arrollado de huaso o pernil ahumado,"$12,990",sí,,Confirmar si las cuatro preparaciones y ambas proteínas están disponibles al mismo precio.
+PANKO-028,Sándwiches,Luco,Proteína y queso.,"Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$6,990",sí,,
+PANKO-029,Sándwiches,Brasileño,"Proteína, queso, palta y mayo.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$7,990",sí,,
+PANKO-030,Sándwiches,Italiano,"Proteína, tomate, palta y mayo.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$8,990",sí,,
+PANKO-031,Sándwiches,Chacarero,"Proteína, tomate, poroto verde, mayo y ají verde.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$8,990",sí,,
+PANKO-032,Sándwiches,A lo Pobre,"Proteína, cebolla frita, huevo, queso y mayo.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$9,990",sí,,
+PANKO-033,Sándwiches,Gringo,"Proteína, aros de cebolla, pepinillos, queso, huevo, BBQ y mayo.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$9,990",sí,,
+PANKO-034,Sándwiches,Dinámico,"Proteína, tomate, palta, salsa americana, chucrut y mayo.","Proteína a elección: churrasco, lomito o hamburguesa. Incluye papas fritas.","$9,990",sí,,Confirmar lectura de «s. americana» como salsa americana.
